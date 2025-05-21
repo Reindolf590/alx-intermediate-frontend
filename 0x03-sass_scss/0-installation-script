@@ -1,0 +1,10 @@
+# Steps to Install SASS
+
+# 1. Navigate to the project directory
+cd 0x03-sass_scss
+
+# 2. Install the latest version of SASS using npm
+npm install sass
+
+# 3. (Optional) Verify the installed version of Sass
+sass --version
